@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a full stack web developer who know how to power up web apps with ai integration and create<br>smooth and seamless webapps.<br>Open to any collaboration and other opportunities<br>
+I’m a full-stack web developer specializing in building scalable, modern web applications with seamless AI integration.<br> I focus on clean architecture, smooth user experiences, and production-ready solutions.<br>
+Open to collaborations and exciting new opportunities.
 
 
 ## 🌐 Socials:
